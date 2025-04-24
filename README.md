@@ -1,4 +1,4 @@
-# Iranian-License-Plate-Recognition-App
+# Iranian license-plate recognition app
 ---
 ## Real-time license plate detection using YOLOv8 and Persian OCR, built for use in mechanic shops.
 ---
