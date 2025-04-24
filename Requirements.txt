@@ -1,0 +1,3 @@
+Open-CV, YOLO from Ultralytics, hezar, Tkinter, pyodbc, SSMS
+
+You can easily install these dependencies via pip install command.
